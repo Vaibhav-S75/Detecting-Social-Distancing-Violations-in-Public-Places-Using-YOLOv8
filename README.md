@@ -6,9 +6,7 @@ Supports **CPU** and **GPU** execution, works with CCTV/drone footage, and outpu
 
 ---
 
-## 🎥 Demo
-
-https://youtu.be/PTLZnE6W2tw
+## 🎥 
 
 ![Social Distance Detection Demo](social%20distance%20detection.gif)
 
@@ -22,6 +20,4 @@ https://youtu.be/PTLZnE6W2tw
 - Supports **both CPU & GPU** for faster processing.
 - Option to **save annotated output**.
 
----
 
-## 📂 Project Structure
